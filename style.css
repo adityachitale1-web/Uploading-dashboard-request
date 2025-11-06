@@ -1,0 +1,33 @@
+<style>
+body {
+    background-color: #f8faff;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.main {
+    background-color: white;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+h1, h2, h3 {
+    color: #1f77b4;
+}
+
+.stButton>button {
+    background-color: #1f77b4;
+    color: white;
+    border-radius: 6px;
+    padding: 0.4rem 1rem;
+    font-weight: 600;
+}
+
+.stButton>button:hover {
+    background-color: #16639a;
+}
+
+footer {
+    visibility: hidden;
+}
+</style>
